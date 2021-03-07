@@ -1,0 +1,6 @@
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Dominio\bin\Debug\ProjetoBase_Dominio.dll
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Dominio\bin\Debug\ProjetoBase_Dominio.pdb
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Dominio\obj\Debug\ProjetoBase_Dominio.csprojAssemblyReference.cache
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Dominio\obj\Debug\ProjetoBase_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Dominio\obj\Debug\ProjetoBase_Dominio.dll
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Dominio\obj\Debug\ProjetoBase_Dominio.pdb

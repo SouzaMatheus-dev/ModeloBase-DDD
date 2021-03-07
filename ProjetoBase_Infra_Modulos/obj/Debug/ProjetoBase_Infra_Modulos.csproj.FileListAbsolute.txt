@@ -1,0 +1,13 @@
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\bin\Debug\ProjetoBase_Infra_Modulos.dll
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\bin\Debug\ProjetoBase_Infra_Modulos.pdb
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\bin\Debug\Ninject.dll
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\bin\Debug\ProjetoBase_Dominio.dll
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\bin\Debug\ProjetoBase_Infra_Data.dll
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\bin\Debug\ProjetoBase_Dominio.pdb
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\bin\Debug\ProjetoBase_Infra_Data.pdb
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\bin\Debug\Ninject.xml
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\obj\Debug\ProjetoBase_Infra_Modulos.csprojAssemblyReference.cache
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\obj\Debug\ProjetoBase_Infra_Modulos.csproj.CoreCompileInputs.cache
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\obj\Debug\ProjetoBase_Infra_Modulos.csproj.CopyComplete
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\obj\Debug\ProjetoBase_Infra_Modulos.dll
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Modulos\obj\Debug\ProjetoBase_Infra_Modulos.pdb

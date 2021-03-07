@@ -1,0 +1,9 @@
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Data\bin\Debug\ProjetoBase_Infra_Data.dll
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Data\bin\Debug\ProjetoBase_Infra_Data.pdb
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Data\bin\Debug\ProjetoBase_Dominio.dll
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Data\bin\Debug\ProjetoBase_Dominio.pdb
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Data\obj\Debug\ProjetoBase_Infra_Data.csprojAssemblyReference.cache
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Data\obj\Debug\ProjetoBase_Infra_Data.csproj.CoreCompileInputs.cache
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Data\obj\Debug\ProjetoBase_Infra_Data.csproj.CopyComplete
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Data\obj\Debug\ProjetoBase_Infra_Data.dll
+C:\Users\Notebook Gamer\source\repos\ProjetoBase_WebApp\ProjetoBase_Infra_Data\obj\Debug\ProjetoBase_Infra_Data.pdb
